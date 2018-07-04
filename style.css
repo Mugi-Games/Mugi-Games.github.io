@@ -135,3 +135,7 @@ footer {
 	float: right;
 	margin-top: -510px;
 }
+
+.right {
+	float: left;
+}
